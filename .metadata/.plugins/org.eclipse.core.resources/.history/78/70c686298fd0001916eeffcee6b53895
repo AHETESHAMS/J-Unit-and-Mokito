@@ -1,0 +1,9 @@
+package com.bridgelabz.sortingofnumbers.utility;
+
+public class SortingUtility 
+{
+	public static void bubbleSort()
+	{
+		System.out.println("Sort");
+	}
+}

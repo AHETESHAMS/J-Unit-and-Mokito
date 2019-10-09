@@ -1,0 +1,6 @@
+package com.bridgelabz.sortingsofnumbers.controller;
+import com.bridgelabz.sortingsofnumbers.util;
+public class SortingController 
+{
+	SortingUtility.
+}

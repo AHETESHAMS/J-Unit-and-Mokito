@@ -1,0 +1,13 @@
+package com.bridgelabz.sortingofnumbers.controller;
+
+import com.bridgelabz.sortingofnumbers.utility.SortingUtility;
+
+public class SortingController 
+{
+	public static void main(String []args)
+	{
+		int array[]= {5,4,3,7,2,1};
+		SortingUtility.bubbleSort(array);
+		System.out.println(array);
+	}
+}
