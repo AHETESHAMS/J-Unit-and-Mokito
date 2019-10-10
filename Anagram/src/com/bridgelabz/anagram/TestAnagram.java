@@ -13,7 +13,5 @@ public class TestAnagram
 	public void test()
 	{
 		assertTrue(new CheckingAnagrams().checkAnagrams("earth", "heart"));
-		//assert
-		
 	}
 }

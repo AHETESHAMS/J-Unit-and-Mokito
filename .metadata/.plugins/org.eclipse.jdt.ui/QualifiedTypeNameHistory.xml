@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="org.junit.Test"/>
 <fullyQualifiedTypeName name="org.junit.Assert"/>
 <fullyQualifiedTypeName name="com.bridgelabz.addtionoftwonumbers.Substract"/>
 <fullyQualifiedTypeName name="com.bridgelabz.sortingsofnumbers.controller.SortingController"/>
 <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
 <fullyQualifiedTypeName name="com.bridgelabz.sortingofnumbers.utility.SortingUtility"/>
+<fullyQualifiedTypeName name="java.awt.SecondaryLoop"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.bridgelabz.anagram.CheckingAnagrams"/>
 </qualifiedTypeNameHistroy>
